@@ -1,0 +1,4 @@
+Lazy Eager Loading 
+@JsonManagedReference
+@JsonBackReference
+Cascading Style
